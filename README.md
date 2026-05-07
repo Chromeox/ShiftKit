@@ -36,6 +36,32 @@ ShiftKit v0.1 should make the core loop real:
 5. Classify the transition.
 6. Play the matching sound from a local sound pack.
 
+## Development
+
+Install dependencies:
+
+```sh
+npm install
+```
+
+Run the settings UI in a browser:
+
+```sh
+npm run dev
+```
+
+Build the frontend:
+
+```sh
+npm run build
+```
+
+Run the native Tauri app after installing Rust and the Tauri prerequisites:
+
+```sh
+npm run tauri dev
+```
+
 ## Roadmap
 
 See [docs/roadmap.md](docs/roadmap.md).
