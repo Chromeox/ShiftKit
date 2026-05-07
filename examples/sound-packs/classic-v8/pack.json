@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "classic-v8",
+  "name": "Classic V8",
+  "author": "ShiftKit",
+  "license": "CC0-1.0",
+  "description": "A starter manifest for combustion-style model shifts. Audio files are intentionally not included yet.",
+  "sounds": {
+    "start": "start.wav",
+    "stop": "stop.wav",
+    "upshift": "upshift.wav",
+    "downshift": "downshift.wav",
+    "blip": "blip.wav",
+    "modelChange": "model-change.wav",
+    "engineSwap": "engine-swap.wav"
+  }
+}
